@@ -6,16 +6,18 @@
 <p>Elegir alimentos adecuados y preparar comidas saludables puede ser un desafío. NutriDespensa resuelve este problema al ofrecer recomendaciones y recetas basadas en alimentos frescos y nutritivos.</p>
 
 <h3>Solución</h3>
-<p>- **Recomendaciones de alimentos:** Información sobre frutas, verduras, proteínas y otros alimentos nutritivos.
-- **Recetas saludables:** Opciones fáciles de preparar que incluyen ingredientes frescos y balanceados.
-- **Beneficios de los alimentos:** Detalles sobre cómo los alimentos contribuyen a una dieta saludable.
-</p>
+<ul>
+  <li>Recomendaciones de alimentos: Información sobre frutas, verduras, proteínas y otros alimentos nutritivos.</li>
+  <li>Recetas saludables: Opciones fáciles de preparar que incluyen ingredientes frescos y balanceados.</li>
+  <li>Beneficios de los alimentos: Detalles sobre cómo los alimentos contribuyen a una dieta saludable.</li>
+</ul>
 
 <h3>Caracteristicas: </h3>
-<p>Recomendaciones de alimentos**: Obtén información sobre alimentos ricos en nutrientes.
-- **Recetas saludables**: Encuentra recetas que promueven una alimentación equilibrada.
-- **Beneficios nutricionales**: Descubre los beneficios de diferentes alimentos para tu salud.
-</p>
+<ul>
+  <li>Recomendaciones de alimentos: Obtén información sobre alimentos ricos en nutrientes.</li>
+  <li>Recetas saludables: Encuentra recetas que promueven una alimentación equilibrada.</li>
+  <li>Beneficios nutricionales: Descubre los beneficios de diferentes alimentos para tu salud.</li>
+</ul>
 
 <h3>Público Objetivo</h3>
 <ul>
